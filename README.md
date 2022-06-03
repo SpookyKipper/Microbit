@@ -1,5 +1,5 @@
 
-> Open this page at [https://spookykipper.github.io/microbit/](https://spookykipper.github.io/microbit/)
+> Open this page at [https://694200.microbit.kipper.ml](https://694200.microbit.kipper.ml)
 
 ## Use as Extension
 
